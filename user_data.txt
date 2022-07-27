@@ -1,0 +1,1 @@
+Name: mart, Surname: maj, Age: 22, Job: 22, Salary: 22 Bonus: 22, Bonus+Salary: 44
